@@ -32,6 +32,7 @@ Typically, this value should be less than 2. Consistently higher values mean tha
 freemem - Number of memory pages available to user processes
 freeswap - Number of disk blocks available for page swapping.
 ------------------------
+
 usr - Portion of time (%) that cpus run in user mode
 
 Problem 2: Logistic Regression, LDA and CART
